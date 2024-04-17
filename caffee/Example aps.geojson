@@ -1,0 +1,54 @@
+{    // 1 : request caffee order
+    {
+        "aps":{
+            "alert":"Test",
+            "sound":"default",
+            "orderid":1,
+            "orderNumber":2,
+            "orderItem":"Caffee",
+            "status":"request",
+            "badge":1,
+            "content-available" : 1
+        }
+    },
+    // 2 : process caffee order
+    {
+        "aps":{
+            "alert":"Test",
+            "sound":"default",
+            "orderid":1,
+            "orderNumber":2,
+            "orderItem":"Caffee",
+            "status":"process",
+            "badge":1,
+            "content-available" : 1
+        }
+    },
+    // 3 : completed caffee order
+    {
+        "aps":{
+            "alert":"Test",
+            "sound":"default",
+            "orderid":1,
+            "orderNumber":2,
+            "orderItem":"Caffee",
+            "status":"completed",
+            "badge":1,
+            "content-available" : 1
+        }
+    },
+    
+    // 4 : rejected caffee order
+    {
+        "aps":{
+            "alert":"Test",
+            "sound":"default",
+            "orderid":2,
+            "orderNumber":1,
+            "orderItem":"Vietnam Caffee",
+            "status":"rejected",
+            "badge":1,
+            "content-available" : 1
+        }
+    }
+}
