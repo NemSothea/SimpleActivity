@@ -3,7 +3,7 @@ SimpleActivity using push notification.
 
  -> Document
 ** All in this project file.
-* If you have any question related above project please let's us know. please read more in the doucument.
+* If you have any question related above project please let's us know. please read more in the document.
 
 # 1. Intro ActivityKit
 # 2. Lifecycle of Live Activities
